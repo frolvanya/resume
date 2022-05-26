@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1653582319 "/Users/frolik/Documents/resume/resume.tex" "resume.pdf" "resume" 1653582320
-  "/Users/frolik/Documents/resume/resume.tex" 1653582105 709 18749860ad68a1b5e87e01aa85db6dd7 ""
+["pdflatex"] 1653582870 "/Users/frolik/Documents/resume/resume.tex" "resume.pdf" "resume" 1653582871
+  "/Users/frolik/Documents/resume/resume.tex" 1653582805 709 18749860ad68a1b5e87e01aa85db6dd7 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -176,12 +176,12 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1653574180 2826449 53202e5f6fcfa673b6590c9a06a46f63 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "education.tex" 1653582319 751 2fd54bb7c5b6a21cd68ea47cad8c4bff ""
+  "education.tex" 1653582869 748 8e4a01b7a1b8ce19852ee2592e3c0781 ""
   "languages.tex" 1653578327 121 674b144fe371e54ece77dcaca4b4c2e9 ""
   "professional-skills.tex" 1653582211 431 214438cd4b80ea52902d7781be13e50a ""
-  "resume.aux" 1653582320 1109 026cffaf8a91b5cc78215cdb104334ae "pdflatex"
-  "resume.out" 1653582320 395 10e2397bfe050d88968770477b33ab77 "pdflatex"
-  "resume.tex" 1653582105 709 18749860ad68a1b5e87e01aa85db6dd7 ""
+  "resume.aux" 1653582871 1109 026cffaf8a91b5cc78215cdb104334ae "pdflatex"
+  "resume.out" 1653582871 395 10e2397bfe050d88968770477b33ab77 "pdflatex"
+  "resume.tex" 1653582805 709 18749860ad68a1b5e87e01aa85db6dd7 ""
   "summary.tex" 1653576926 148 e2cd19a4b006457a50d7d77eb65ae75c ""
   (generated)
   "resume.aux"
