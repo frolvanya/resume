@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1653919863 "/Users/frolik/Documents/resume/resume.tex" "resume.pdf" "resume" 1653919864
-  "/Users/frolik/Documents/resume/resume.tex" 1653919863 769 45402c3845bbd83c0af510470d6c6653 ""
+["pdflatex"] 1654618905 "/Users/frolik/Documents/resume/resume.tex" "resume.pdf" "resume" 1654618906
+  "/Users/frolik/Documents/resume/resume.tex" 1654618709 792 347924a37d152cc5dabd41974717ab9c ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -23,6 +23,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1248133631 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb" 1248133631 35022 e40946b20bfdcd1099eafb2bcd9f25dd ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb" 1248133631 34586 5a65dc15601f9c74fe3fb3f37b3b8b6f ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
@@ -176,12 +177,13 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1653574180 2826449 53202e5f6fcfa673b6590c9a06a46f63 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "education.tex" 1653582869 748 8e4a01b7a1b8ce19852ee2592e3c0781 ""
+  "education.tex" 1654618012 748 3a97e91518d61ecdec2d48f75efc0c51 ""
+  "experience.tex" 1654618905 261 29ce2ed93e7686d668cf3c078002336a ""
   "languages.tex" 1653578327 121 674b144fe371e54ece77dcaca4b4c2e9 ""
   "professional-skills.tex" 1653582211 431 214438cd4b80ea52902d7781be13e50a ""
-  "resume.aux" 1653919864 1109 026cffaf8a91b5cc78215cdb104334ae "pdflatex"
-  "resume.out" 1653919864 395 10e2397bfe050d88968770477b33ab77 "pdflatex"
-  "resume.tex" 1653919863 769 45402c3845bbd83c0af510470d6c6653 ""
+  "resume.aux" 1654618906 1315 7c2cc9d9bd692dbe678ef0ba55ff6dc7 "pdflatex"
+  "resume.out" 1654618906 630 1ab15e3cd2eaae8144d5fc201d8a7549 "pdflatex"
+  "resume.tex" 1654618709 792 347924a37d152cc5dabd41974717ab9c ""
   "summary.tex" 1653576926 148 e2cd19a4b006457a50d7d77eb65ae75c ""
   (generated)
   "resume.aux"
