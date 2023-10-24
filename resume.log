@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/nixos.org) (preloaded format=pdflatex 1980.1.1)  24 OCT 2023 12:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/nixos.org) (preloaded format=pdflatex 1980.1.1)  24 OCT 2023 12:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -988,15 +988,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
-) (./professional-skills.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--1
-
- []
-
-) (./experience.tex) (./education.tex) (./languages.tex) [1
+) (./professional-skills.tex) (./experience.tex) (./education.tex) (./languages
+.tex) [1
 
 {/nix/store/pj1y6581wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-full-2021-final/s
-hare/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./resume.aux)
+hare/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./resume.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 9.12pt have occurred.
@@ -1004,12 +1001,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: C833DF3F052C4B8AD02094B9C5F36DBC;900.
  ) 
 Here is how much of TeX's memory you used:
- 26676 strings out of 478278
- 532019 string characters out of 5819600
+ 26675 strings out of 478278
+ 532013 string characters out of 5819600
  824430 words of memory out of 5000000
  44360 multiletter control sequences out of 15000+600000
  479116 words of font info for 94 fonts, out of 8000000 for 9000
@@ -1032,10 +1032,10 @@ nts/type1/public/amsfonts/cm/cmsl12.pfb></nix/store/pj1y6581wzd3z6rxxvxffvdfrwk
 hqc67-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb></nix/store/pj1y6581wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-ful
 l-2021-final/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (2 pages, 129313 bytes).
+Output written on resume.pdf (1 page, 129017 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
+ 98 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
  36933 words of extra memory for PDF output out of 42996 (max. 10000000)
 
