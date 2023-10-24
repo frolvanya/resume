@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/nixos.org) (preloaded format=pdflatex 1980.1.1)  24 OCT 2023 12:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/nixos.org) (preloaded format=pdflatex 1980.1.1)  24 OCT 2023 12:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -947,6 +947,7 @@ LaTeX Info: Redefining \nameref on input line 24.
 \@outlinefile=\write4
 \openout4 = `resume.out'.
 
+\pagenumberwidth=\skip98
 \makecvheaddetailsbox=\box68
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 27.
@@ -964,8 +965,8 @@ LaTeX Font Warning: Font shape `U/fontawesometwo/m/sl' undefined
 (Font)              using `U/fontawesometwo/m/n' instead on input line 27.
 
 \makecvheadpicturebox=\box69
-\makecvheaddetailswidth=\skip98
-\makecvheadpicturewidth=\skip99
+\makecvheaddetailswidth=\skip99
+\makecvheadpicturewidth=\skip100
 \makecvheadnamebox=\box70
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <34> not available
@@ -987,10 +988,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
-) (./professional-skills.tex) (./experience.tex) (./education.tex) [1
+) (./professional-skills.tex) (./experience.tex) (./education.tex) (./languages
+.tex) [1
 
 {/nix/store/pj1y6581wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-full-2021-final/s
-hare/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume.aux)
+hare/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2] (./resume.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 9.12pt have occurred.
@@ -1007,37 +1010,41 @@ Package rerunfilecheck Warning: File `resume.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `resume.out':
-(rerunfilecheck)             Before: D3E1A936EB8E5DDA32607A892FE81A42;779
-(rerunfilecheck)             After:  DD7785E869301ED3C80AF101F6523C9D;958.
+(rerunfilecheck)             Before: 4C8886A2B7CE8CF23AEB685577871766;1122
+(rerunfilecheck)             After:  C833DF3F052C4B8AD02094B9C5F36DBC;900.
  ) 
 Here is how much of TeX's memory you used:
- 26660 strings out of 478278
- 531829 string characters out of 5819600
- 824430 words of memory out of 5000000
- 44355 multiletter control sequences out of 15000+600000
- 478503 words of font info for 90 fonts, out of 8000000 for 9000
+ 26678 strings out of 478278
+ 532041 string characters out of 5819600
+ 824431 words of memory out of 5000000
+ 44361 multiletter control sequences out of 15000+600000
+ 479116 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,11n,122p,1003b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/nix/store/pj1y6581wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-full-2021-final
-/share/texmf/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</nix/store/pj1y658
-1wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-full-2021-final/share/texmf/fonts/ty
-pe1/public/fontawesome/FontAwesome.pfb></nix/store/pj1y6581wzd3z6rxxvxffvdfrwkh
-qc67-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/amsfonts/c
-m/cmbx10.pfb></nix/store/pj1y6581wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-full
--2021-final/share/texmf/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></nix/store/
-pj1y6581wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-full-2021-final/share/texmf/f
-onts/type1/public/amsfonts/cm/cmr10.pfb></nix/store/pj1y6581wzd3z6rxxvxffvdfrwk
-hqc67-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/amsfonts/
-cm/cmr12.pfb></nix/store/pj1y6581wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-full
--2021-final/share/texmf/fonts/type1/public/amsfonts/cm/cmsl10.pfb></nix/store/p
-j1y6581wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-full-2021-final/share/texmf/fo
-nts/type1/public/amsfonts/cm/cmsl12.pfb></nix/store/pj1y6581wzd3z6rxxvxffvdfrwk
-hqc67-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb>
-Output written on resume.pdf (1 page, 121447 bytes).
+ 129i,12n,122p,1003b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section*.8} has been referenced but does not exis
+t, replaced by a fixed one
+
+{/nix/store/pj1y6581wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-full-2021-final/s
+hare/texmf/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</nix/store/pj1y6581w
+zd3z6rxxvxffvdfrwkhqc67-texlive-combined-full-2021-final/share/texmf/fonts/type
+1/public/fontawesome/FontAwesome.pfb></nix/store/pj1y6581wzd3z6rxxvxffvdfrwkhqc
+67-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb></nix/store/pj1y6581wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-full-2
+021-final/share/texmf/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></nix/store/pj
+1y6581wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-full-2021-final/share/texmf/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></nix/store/pj1y6581wzd3z6rxxvxffvdfrwkhq
+c67-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/amsfonts/cm
+/cmr12.pfb></nix/store/pj1y6581wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-full-2
+021-final/share/texmf/fonts/type1/public/amsfonts/cm/cmsl10.pfb></nix/store/pj1
+y6581wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-full-2021-final/share/texmf/font
+s/type1/public/amsfonts/cm/cmsl12.pfb></nix/store/pj1y6581wzd3z6rxxvxffvdfrwkhq
+c67-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb></nix/store/pj1y6581wzd3z6rxxvxffvdfrwkhqc67-texlive-combined-full-
+2021-final/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on resume.pdf (2 pages, 129461 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 34877 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 107 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
+ 36941 words of extra memory for PDF output out of 42996 (max. 10000000)
 
