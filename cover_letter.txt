@@ -1,0 +1,28 @@
+Ivan Frolov
+85 Oneida Cres,
+Richmond Hill, ON, L4B 0A4,
+frolvanya@gmail.com
+[Today's Date]
+
+
+[Company's Name]
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Software Engineer position at your esteemed organization. As an aspiring software engineer with a diverse background in computer science and a passion for innovation, I am eager to contribute my skills and experiences to your dynamic team.
+
+My journey into the world of computer science began in the 5th grade, when I enrolled in an advanced math and computer science class. It was during this formative period that I was introduced to the fascinating world of data structures and algorithms. This early exposure ignited my curiosity, leading me to explore various programming languages, including Rust, C++, and Python, on my own.
+
+In addition to my academic endeavors, I have actively pursued opportunities to apply and expand my knowledge. I have been involved in programming competitions, collaborated on team projects, and made significant contributions to open-source initiatives. These experiences have sharpened my problem-solving skills, fostered collaboration, and exposed me to the ever-evolving landscape of software development.
+
+One of my significant contributions includes active participation in an open-source project within the Near Protocol ecosystem. Leveraging the power of Rust and Python, I have worked collaboratively on this project to enhance the Near Protocol's capabilities. My contributions have been focused on data streaming, improving type structure, and developing user-friendly features. This experience has not only sharpened my programming skills but has also given me valuable insights into the collaborative nature of open-source development.
+
+The description of your software engineer position and your company's commitment to innovation aligns seamlessly with my aspirations and skills. I am eager to join a team that shares my passion for creating efficient, high-quality software solutions.
+
+I look forward to the opportunity to discuss how my background and enthusiasm for software engineering can contribute to [Company's Name]'s mission. Thank you for considering my application.
+
+Sincerely,
+
+Ivan Frolov
+https://www.linkedin.com/in/frolvanya
++1 (416) 709-1633
