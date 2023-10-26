@@ -2,10 +2,10 @@ Ivan Frolov
 85 Oneida Cres,
 Richmond Hill, ON, L4B 0A4,
 frolvanya@gmail.com
-[Today's Date]
+October 25, 2023
 
 
-[Company's Name]
+Google
 
 Dear Hiring Manager,
 
@@ -19,7 +19,7 @@ One of my significant contributions includes active participation in an open-sou
 
 The description of your software engineer position and your company's commitment to innovation aligns seamlessly with my aspirations and skills. I am eager to join a team that shares my passion for creating efficient, high-quality software solutions.
 
-I look forward to the opportunity to discuss how my background and enthusiasm for software engineering can contribute to [Company's Name]'s mission. Thank you for considering my application.
+I look forward to the opportunity to discuss how my background and enthusiasm for software engineering can contribute to Google's mission. Thank you for considering my application.
 
 Sincerely,
 
