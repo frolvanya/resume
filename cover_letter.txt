@@ -8,15 +8,13 @@ October 26, 2023
 
 Dear Hiring Manager,
 
-I am writing to apply for a software developer position. As an aspiring software engineer with a diverse background in computer science and a passion for modern innovation, I am confident that joining your team will allow me to grow both professionally and personally.
+I am writing to express my strong interest in the Software Developer position at your esteemed organization. As an aspiring software engineer with a diverse background in computer science and a passion for modern innovation, I am confident that joining your team will allow me to grow both professionally and personally.
 
 Currently, I have experience in the Near Protocol ecosystem, where I applied my Rust and Python knowledge. Together with the team, I worked on a project aimed at improving the Near Protocol experience. My contributions focused on streaming data, improving the type structure, and developing user-friendly features. I demonstrated an excellent ability to quickly learn and use new features, analyze requirements correctly, and ultimately deliver products on time. This experience not only improved my programming skills but also gave me valuable insight into the collaborative nature of open-source development.
 
-My experience has enabled me to acquire several important abilities (beeing able to work in a team, beeing organized and develop new software and enhance existing systems) that you have listed as key in the job posting for the above-mentioned position.
+My experience has enabled me to acquire several important abilities (beeing able to work in a team, beeing organized and develop new software and enhance existing systems) that you have listed as key in the job posting for the above-mentioned position in [Company Name].
 
-In addition to my experience, I am studying Computer Programming at Seneca College with good academic results (3.7/4.0 GPA). In addition to being fluent in English, I am also fluent in Ukrainian and Russian. On the technical side, I am proficient with Rust, Python, C++ and JS languages as well as Jira and GitHub project management platforms.
-
-I believe that I would be a responsible member of your team, doing my duty and whatever is necessary to support the company's strategic plan and profit. I see this opportunity as an incredible opportunity to improve my knowledge and soft skills as I have the opportunity to work with such passionate and very talented people.
+In addition to my experience, I am studying Computer Science at Seneca College with good academic results (3.7/4.0 GPA). In addition to being fluent in English, I am also fluent in Ukrainian and Russian. On the technical side, I am proficient with Rust, Python, C++ and JS languages as well as Jira and GitHub project management platforms.
 
 The description of your position as a software engineer and your company's commitment to innovation perfectly match my aspirations and skills. I want to join a team that shares my passion for creating efficient, high-quality software solutions.
 
