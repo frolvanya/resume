@@ -2,26 +2,27 @@ Ivan Frolov
 85 Oneida Cres,
 Richmond Hill, ON, L4B 0A4,
 frolvanya@gmail.com
-October 25, 2023
+October 26, 2023
 
-
-Google
+THE NORTHGATE TRADING INC.
 
 Dear Hiring Manager,
 
-I am writing to express my strong interest in the Software Engineer position at your esteemed organization. As an aspiring software engineer with a diverse background in computer science and a passion for innovation, I am eager to contribute my skills and experiences to your dynamic team.
+I am writing to apply for a software developer position. As an aspiring software engineer with a diverse background in computer science and a passion for modern innovation, I am confident that joining your team will allow me to grow both professionally and personally.
 
-My journey into the world of computer science began in the 5th grade, when I enrolled in an advanced math and computer science class. It was during this formative period that I was introduced to the fascinating world of data structures and algorithms. This early exposure ignited my curiosity, leading me to explore various programming languages, including Rust, C++, and Python, on my own.
+Currently, I have experience in the Near Protocol ecosystem, where I applied my Rust and Python knowledge. Together with the team, I worked on a project aimed at improving the Near Protocol experience. My contributions focused on streaming data, improving the type structure, and developing user-friendly features. I demonstrated an excellent ability to quickly learn and use new features, analyze requirements correctly, and ultimately deliver products on time. This experience not only improved my programming skills but also gave me valuable insight into the collaborative nature of open-source development.
 
-In addition to my academic endeavors, I have actively pursued opportunities to apply and expand my knowledge. I have been involved in programming competitions, collaborated on team projects, and made significant contributions to open-source initiatives. These experiences have sharpened my problem-solving skills, fostered collaboration, and exposed me to the ever-evolving landscape of software development.
+My experience has enabled me to acquire several important abilities (beeing able to work in a team, beeing organized and develop new software and enhance existing systems) that you have listed as key in the job posting for the above-mentioned position.
 
-One of my significant contributions includes active participation in an open-source project within the Near Protocol ecosystem. Leveraging the power of Rust and Python, I have worked collaboratively on this project to enhance the Near Protocol's capabilities. My contributions have been focused on data streaming, improving type structure, and developing user-friendly features. This experience has not only sharpened my programming skills but has also given me valuable insights into the collaborative nature of open-source development.
+In addition to my experience, I am studying Computer Programming at Seneca College with good academic results (3.7/4.0 GPA). In addition to being fluent in English, I am also fluent in Ukrainian and Russian. On the technical side, I am proficient with Rust, Python, C++ and JS languages as well as Jira and GitHub project management platforms.
 
-The description of your software engineer position and your company's commitment to innovation aligns seamlessly with my aspirations and skills. I am eager to join a team that shares my passion for creating efficient, high-quality software solutions.
+I believe that I would be a responsible member of your team, doing my duty and whatever is necessary to support the company's strategic plan and profit. I see this internship as an incredible opportunity to improve my knowledge and soft skills as I have the opportunity to work with such passionate and very talented people.
 
-I look forward to the opportunity to discuss how my background and enthusiasm for software engineering can contribute to Google's mission. Thank you for considering my application.
+The description of your position as a software engineer and your company's commitment to innovation perfectly match my aspirations and skills. I want to join a team that shares my passion for creating efficient, high-quality software solutions.
 
-Sincerely,
+I look forward to discussing how my experience and enthusiasm for software development can contribute to THE NORTHGATE TRADING INC.'s mission. Thank you for considering my application.
+
+Sincerely
 
 Ivan Frolov
 https://www.linkedin.com/in/frolvanya
