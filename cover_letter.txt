@@ -4,21 +4,21 @@ Richmond Hill, ON, L4B 0A4,
 frolvanya@gmail.com
 October 31, 2023
 
-Source
+Newstead Education Corp.
 
 Dear Hiring Manager,
 
-I am writing to express my strong interest in the Blockchain Developer position at your esteemed organization. As an aspiring blockchain developer with a diverse background in computer programming and a passion for modern innovation, I am confident that joining your team will allow me to grow both professionally and personally.
+I am writing to express my strong interest in the Web Developer position at your esteemed organization. As an aspiring web developer with a diverse background in computer programming and a passion for modern innovation, I am confident that joining your team will allow me to grow both professionally and personally.
 
-Currently, I have experience in the Near Protocol ecosystem, where I applied my Rust and Python knowledge. Together with the team, I worked on a project aimed at improving the Near Protocol experience. My contributions focused on streaming data, improving the type structure, and developing user-friendly features. I demonstrated an excellent ability to quickly learn and use new features, analyze requirements correctly, and ultimately deliver products on time. This experience not only improved my programming skills but also gave me valuable insight into the collaborative nature of open-source development.
+Currently, I have experience in the Near Protocol ecosystem, where I applied my Rust and Python knowledge. Together with the team, I worked on a project aimed at improving the Near Protocol experience. My contributions focused on streaming data, improving the type structure, and developing user-friendly features. I demonstrated an excellent ability to quickly learn and use new features, analyze requirements correctly, and ultimately deliver products on time. This experience not only improved my programming skills but also gave me valuable insight into the collaborative nature of open-Newstead Education Corp. development.
 
-My experience has enabled me to acquire several important abilities (beeing able to work in a team, learn fast and develop new software and enhance existing systems) that you have listed as key in the job posting for the above-mentioned position in Source.
+My experience has enabled me to acquire several important abilities (beeing able to work in a team, learn fast and develop new software and enhance existing systems) that you have listed as key in the job posting for the above-mentioned position in Newstead Education Corp..
 
 In addition to my experience, I am studying Computer Programming at Seneca College with good academic results (3.7/4.0 GPA). In addition to being fluent in English, I am also fluent in Ukrainian and Russian. On the technical side, I am proficient with Rust, Python, C++ and JS languages as well as Jira and GitHub project management platforms.
 
 The description of your position as a software engineer and your company's commitment to innovation perfectly match my aspirations and skills. I want to join a team that shares my passion for creating efficient, high-quality software solutions.
 
-I look forward to discussing how my experience and enthusiasm for software development can contribute to Source's mission. Thank you for considering my application.
+I look forward to discussing how my experience and enthusiasm for software development can contribute to Newstead Education Corp.'s mission. Thank you for considering my application.
 
 Sincerely
 
